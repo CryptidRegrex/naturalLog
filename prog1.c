@@ -1,5 +1,5 @@
 /* *********************************************************************
-@author Justin Tobiason
+@author CryptidRegrex
 @date September 19th 2022
 
 This file uses pthreads to find the log value of a number between 0 < x < 2
