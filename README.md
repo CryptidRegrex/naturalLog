@@ -1,3 +1,6 @@
+This program is meant to show the proper use and allocation of threading a process. Utilizing the pthread library to demonstrate this feature.
+
+Run Insrtuctions:
 This project takes in three parameters in order:
 1. A value between 0 < x < 2 (double)
 2. Total number of threads you wish to create (int)
